@@ -1,0 +1,66 @@
+{
+    "movies": [
+        {
+            "title": "Harry Potter",
+            "scenarios": [
+                "What if Harry Potter died in the first movie",
+                "What if Hermione was the chosen one instead",
+                "What if Draco Malfoy joined Harry",
+                "What if Dumbledore was evil all along",
+                "What if Voldemort won the final battle"
+            ]
+        },
+        {
+            "title": "Avengers",
+            "scenarios": [
+                "What if Thanos snapped himself",
+                "What if Iron Man survived Endgame",
+                "What if Captain America never came back",
+                "What if Spider-Man joined Thanos",
+                "What if Thor never became worthy"
+            ]
+        },
+        {
+            "title": "Game of Thrones",
+            "scenarios": [
+                "What if Jon Snow stayed dead",
+                "What if Ned Stark survived season 1",
+                "What if Daenerys never went mad",
+                "What if The Night King won",
+                "What if Cersei had a good heart"
+            ]
+        },
+        {
+            "title": "The Dark Knight",
+            "scenarios": [
+                "What if Batman killed the Joker",
+                "What if Harvey Dent never became Two-Face",
+                "What if Alfred left Bruce Wayne"
+            ]
+        },
+        {
+            "title": "Star Wars",
+            "scenarios": [
+                "What if Anakin never turned to the dark side",
+                "What if Luke joined the Emperor",
+                "What if Darth Vader raised Luke himself"
+            ]
+        },
+        {
+            "title": "Breaking Bad",
+            "scenarios": [
+                "What if Walter White never got cancer",
+                "What if Jesse Pinkman reported Walter to the DEA",
+                "What if Hank caught Walter in season 1"
+            ]
+        },
+        {
+            "title": "Stranger Things",
+            "scenarios": [
+                "What if Eleven never escaped the lab",
+                "What if Will Byers died in the Upside Down",
+                "What if the Mind Flayer possessed Eleven"
+            ]
+        }
+    ]
+}
